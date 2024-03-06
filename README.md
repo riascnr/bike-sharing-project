@@ -19,6 +19,11 @@ In my "Learning Data Analysis with Python" course at dico, I completed a final p
 │   ├── Readme.txt
 │   ├── day.csv
 |   └── hour.csv
+├── image
+│   ├── img1.jpeg
+│   ├── img2.jpeg
+|   └── img3.jpeg
+|   └── img4.jpeg
 ├── README.md
 ├── notebook.ipynb
 └── requirements.txt
