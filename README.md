@@ -39,6 +39,7 @@ In my "Learning Data Analysis with Python" course at dico, I completed a final p
 4. Akses VSCode Anda dan jalankan berkas tersebut dengan menavigasi ke terminal dan memasukkan `streamlit run dashboard.py`.
 
 ### Preview
-
-
-
+![img1](image/img1.jpeg)
+![img2](image/img2.jpeg)
+![img3](image/img3.jpeg)
+![img4](image/img4.jpeg)
